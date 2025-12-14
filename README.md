@@ -18,7 +18,7 @@ Each course repository is linked below.
     - `MIS 284N`: Fa25 - Analytics of Unstructured Data (05295) Course Project.
 - [Forecasting Agro-Food CO₂ Emissions Under Policy Scenarios](https://github.com/Shruthi-CK/AML_Project)
     - Forecasting Agricultural Climate Future Outcomes: A Scenario-Based Emission Forecasting Study.
-    - Medium Article: [Forecasting Agro-Food CO₂ Emissions](https://medium.com/@abhiroop-kumar/forecasting-agro-food-co%E2%82%82-emissions-under-policy-scenarios-be73d78db624)
+    - Medium Article: [Forecasting Agro-Food CO₂ Emissions Under Alternative Policy Scenarios](https://medium.com/@abhiroop-kumar/forecasting-agro-food-co%E2%82%82-emissions-under-policy-scenarios-be73d78db624)
     - `MIS 382N`: Fa25 - Advanced Machine Learning Course Project.
 - [Online Learning Behaviour and Patterns with Snowflake](https://github.com/abhiroopkumar3/information-management-mccombs26)
     - Database implementation of the Medallion Architecture in Snowflake for the 'DataCamp course & track metadata' datasets.
