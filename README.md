@@ -38,6 +38,9 @@ Each course repository is linked below.
 - [Online Learning Behaviour and Patterns with Snowflake](https://github.com/abhiroopkumar3/information-management-mccombs26)
     - Database implementation of the Medallion Architecture in Snowflake for the 'DataCamp course & track metadata' datasets.
     - `MIS 381N`: Fa25 - Information Management - Section 2 (05275) Course Project.
+- [Connect4 G31 App](https://github.com/abhiroopkumar3/optimization-ii-p1-mccombs26)
+    - Integrated AWS-hosted CNN and Transformer models with the Anvil public frontend via Uplink, enabling real-time Connect4 AI gameplay on a webpage.
+    - `R M 294`: Sp26 - 2-Optimization II (05665) Course Project.
 
 ---
 
