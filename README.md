@@ -28,10 +28,10 @@ Each course repository is linked below.
 - [Listening to Recovery](https://github.com/abhiroopkumar3/analytics-for-unstructured-data-mccombs26)
     - Analytics approach that transforms unstructured addiction recovery narratives into structured, actionable insights.
     - `MIS 284N`: Fa25 - Analytics of Unstructured Data (05295) Course Project.
-- [Newsvendor Optimization with Rush & Disposal Costs](https://github.com/ethandavenport/Optimization-I-Project-3)
+- [Newsvendor Optimization with Rush & Disposal Costs](https://github.com/abhiroopkumar3/optimization-i-p3-mccombs26)
     - Applying optimization techniques to a traditional Newsvendor (NV) framework to incorporate price-dependent demand, rush printing, and disposal costs to determine profit-maximizing printing and pricing decisions for a publishing company.
     - `R M 294`: Fa25 - 1-Optimization (05610) Course Project.
-- [Forecasting Agro-Food CO₂ Emissions Under Policy Scenarios](https://github.com/Shruthi-CK/AML_Project)
+- [Forecasting Agro-Food CO₂ Emissions Under Policy Scenarios](https://github.com/abhiroopkumar3/advanced-machine-learning-mccombs26)
     - Forecasting Agricultural Climate Future Outcomes: A Scenario-Based Emission Forecasting Study.
     - Medium Article: [Forecasting Agro-Food CO₂ Emissions Under Alternative Policy Scenarios](https://medium.com/@abhiroop-kumar/forecasting-agro-food-co%E2%82%82-emissions-under-policy-scenarios-be73d78db624)
     - `MIS 382N`: Fa25 - Advanced Machine Learning Course Project.
