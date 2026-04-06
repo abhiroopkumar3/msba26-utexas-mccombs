@@ -42,7 +42,7 @@ Each course repository is linked below.
     - Integrated AWS-hosted CNN and Transformer models with the Anvil public frontend via Uplink, enabling real-time Connect4 AI gameplay.
     - Website Link: [Connect4: The Game](https://msba25optim2-31.anvil.app/)
     - `R M 294`: Sp26 - 2-Optimization II (05665) Course Project.
-- [Airline Overbooking Analysis - A Dynamic Programming Approach](https://github.com/abhiroopkumar3/optimization-ii-p2-mccombs26)
+- [Airline Overbooking Analysis: A Dynamic Programming Approach](https://github.com/abhiroopkumar3/optimization-ii-p2-mccombs26)
     - Determining the optimal pricing and overbooking policy for a flight with multiple of coach and first-class seats using a dynamic programming approach to maximize expected discounted profit over a 365-day selling horizon, accounting for stochastic demand and departure-day overbooking costs.
     - `R M 294`: Sp26 - 2-Optimization II (05665) Course Project.
 
