@@ -45,6 +45,9 @@ Each course repository is linked below.
 - [Airline Overbooking: A Dynamic Programming Approach](https://github.com/abhiroopkumar3/optimization-ii-p2-mccombs26)
     - Determining the optimal pricing and overbooking policy for a flight with multiple of coach and first-class seats using a dynamic programming approach to maximize expected discounted profit over a 365-day selling horizon, accounting for stochastic demand and departure-day overbooking costs.
     - `R M 294`: Sp26 - 2-Optimization II (05665) Course Project.
+- [Connect-4 Reinforcement Learning Engine](https://github.com/abhiroopkumar3/optimization-ii-p3-mccombs26)
+    - Reinforcement Learning engine for Connect-4 using Policy Gradient and Deep Q-Networks trained via self-play. Built with a full evaluation pipeline, tournament framework, and performance analytics for model comparison.
+    - `R M 294`: Sp26 - 2-Optimization II (05665) Course Project.
 
 ---
 
