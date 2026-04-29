@@ -7,8 +7,8 @@ Each course repository is linked below.
 
 ## 📂 Repositories
 
-- [Data-Driven Texas Livestock Markets](https://github.com/abhiroopkumar3/business-analytics-capstone-csb-mccombs26)
-  - A complete end-to-end solution combining data analysis, modeling, and system design to solve a real-world problem. Showcases structured workflows, validated results, and practical insights through an integrated and reproducible implementation.
+- [Data-Driven Texas Livestock Markets (Columbus State Bank)](https://github.com/abhiroopkumar3/business-analytics-capstone-csb-mccombs26)
+  - A complete end-to-end solution for project sponsor `Columbus State Bank`, combining data analysis, modeling, and system design to solve a real-world problem. Showcases structured workflows, validated results, and practical insights through an integrated and reproducible implementation.
   - `MIS 381N`: Sp26 - Business Analytics Capstone (05130) Course Project.
 - [Multi-Agent Competitive Intelligence System](https://github.com/abhiroopkumar3/lvrgng-llm-prdctvty-imprvmnt-mccombs26)
   - A multi-agent system that transforms a company name into a structured competitive intelligence brief. Built with a deterministic supervisor and specialized agents to deliver reliable, validated insights.
